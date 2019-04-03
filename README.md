@@ -16,6 +16,5 @@ Thank you guys so much for contributing! Thanks for adding to the fun.
 There is none so far.
 
 April 3, 2019:
-yeeet.wav
-Description: 
-Smile darn ya smile distorted.
+
+File: yeeet.wav Description: Smile darn ya smile distorted.
