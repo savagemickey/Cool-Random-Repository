@@ -1,0 +1,1 @@
+Here you will find software that is made by random people, all of which have some purpose (or none). There is no copyrighted software in here, you will only find something completely fresh and new. It might now be the freshest coolest new software, but at least it's something different and not just something that has become rotton to you. 
