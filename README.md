@@ -13,3 +13,4 @@ After all of that you should be good for a pull request! After that, I will make
 Thank you guys so much for contributing! Thanks for adding to the fun. 
 
 # Contribute History
+There is none so far.
